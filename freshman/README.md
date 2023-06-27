@@ -13,5 +13,6 @@ How to run each project :
 
 ## raimbowkit demonstration
 
-- use _npm run dev_ in my-app directory
+- use _npm i_ in my-app directory to install all dependencies
+- use _npm run dev_ in my-app directory to run the project
 
