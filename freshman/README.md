@@ -8,10 +8,10 @@ How to run each project :
 
 ## basique NFT contract
 
-- Look at the contract in contract
+- Look at the contract in contract folder
 - if you want to redeploy the contract use hardhat compile and hardhat deploy commands
 
 ## basique Dapp
 
-- use npm run in my-app directory
+- use _npm run dev_ in my-app directory
 
